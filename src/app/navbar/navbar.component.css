@@ -1,0 +1,28 @@
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+.button3 {
+    background-color: #007bff;; 
+    color: black; 
+    border: 2px solid #007bff;;
+  }
+  
+  .button3:hover {
+    background-color: #36f48b;
+    color: white;
+  }
+  .rdi 
+  {border-radius: 50%;
+    height: 10%;
+    width: 10%;}

@@ -1,0 +1,21 @@
+
+.btnn_reset{
+        
+    color: rgb(7, 0, 0);
+    background-color: #da1111;
+    margin-top: -20px;
+    float:right ;
+    margin-left: 10px;
+    border-radius: 10px;   
+
+}
+
+.btnn_submit{
+    
+    color: rgb(7, 0, 0);
+    background-color: #2cb908;
+    margin-top: -20px;
+    float:right ;
+    margin-left: 10px;
+    border-radius: 10px;
+}
